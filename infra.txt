@@ -1,3 +1,10 @@
 infrasource
 this is the latet fix given infra
+<<<<<<< HEAD
 third commit 
+=======
+first operations commit 
+second commit 
+
+fourth commit
+>>>>>>> origin/operations
